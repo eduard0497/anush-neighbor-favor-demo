@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anush-neighbor-favor-demo/static/css/main.e028531b.chunk.css",
+    "main.js": "/anush-neighbor-favor-demo/static/js/main.04a4caf6.chunk.js",
+    "main.js.map": "/anush-neighbor-favor-demo/static/js/main.04a4caf6.chunk.js.map",
+    "runtime-main.js": "/anush-neighbor-favor-demo/static/js/runtime-main.db67808f.js",
+    "runtime-main.js.map": "/anush-neighbor-favor-demo/static/js/runtime-main.db67808f.js.map",
+    "static/js/2.68d78ab8.chunk.js": "/anush-neighbor-favor-demo/static/js/2.68d78ab8.chunk.js",
+    "static/js/2.68d78ab8.chunk.js.map": "/anush-neighbor-favor-demo/static/js/2.68d78ab8.chunk.js.map",
+    "index.html": "/anush-neighbor-favor-demo/index.html",
+    "static/css/main.e028531b.chunk.css.map": "/anush-neighbor-favor-demo/static/css/main.e028531b.chunk.css.map",
+    "static/js/2.68d78ab8.chunk.js.LICENSE.txt": "/anush-neighbor-favor-demo/static/js/2.68d78ab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db67808f.js",
+    "static/js/2.68d78ab8.chunk.js",
+    "static/css/main.e028531b.chunk.css",
+    "static/js/main.04a4caf6.chunk.js"
+  ]
+}
